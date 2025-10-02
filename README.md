@@ -21,7 +21,7 @@ The application is composed of four main microservices:
 - **notification-server**
 
 <p align="center">
-  <img src="./ProjectDoc/ProjectArchitecture.png" width="600" title="Architecture" alt="Architecture">
+  <img src="./ProjectDoc/ProjectArchitecture.png" title="Architecture" alt="Architecture">
 </p>
 
 ## Prerequisites
